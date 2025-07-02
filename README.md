@@ -1,0 +1,2 @@
+# sku-fotos
+fotos sku
